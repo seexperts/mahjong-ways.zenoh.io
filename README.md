@@ -1,1 +1,1 @@
-# mahjong-ways.zeno.io
+# mahjong-ways.zenoh.io
